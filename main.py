@@ -95,3 +95,4 @@ if (respect >= 100):
     print("Вы прошли игру")
 if (health <= 0 or weight <= 0 or respect <= 0 or length <= 0):
     print("Вы погибли")
+// комментарий
